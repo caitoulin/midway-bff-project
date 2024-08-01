@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "module": "ESNext",
+    "target": "es2019",
+    "sourceMap": true,
+    "jsx": "react",
+    "noImplicitAny": true,
+    "noEmit": true,
+    "moduleResolution": "node",
+    "allowSyntheticDefaultImports": true,
+    "rootDir": ".",
+    "typeRoots": ["./types", "../node_modules/@types"]
+  },
+  "include": ["/**/*"],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,15 @@
+logs/
+npm-debug.log
+yarn-error.log
+node_modules/
+coverage/
+dist/
+.idea/
+run/
+public/dist/webpack
+.DS_Store
+*.sw*
+*.un~
+.tsbuildinfo
+.tsbuildinfo.*
+.vscode
